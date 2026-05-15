@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large scientific datasets
+data/*.nc
+data/*.grd
+*.nc
